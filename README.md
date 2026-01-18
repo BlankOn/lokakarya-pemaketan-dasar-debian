@@ -4,7 +4,7 @@
 
 Pasang perkakas-perkakas pendukung,
 ```
-sudo apt install build-essential devscripts quilt
+sudo apt install debmake build-essential devscripts quilt
 ```
 ## Bongkar tarball
 
